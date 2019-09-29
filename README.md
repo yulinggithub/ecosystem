@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/yulinggithub/ecosystem.svg?branch=develop)](https://travis-ci.org/yulinggithub/ecosystem)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3Aecosystem-2&metric=alert_status)](https://sonarcloud.io/dashboard?id=es.upm.miw%3Aecosystem-2)
 [![BCH compliance](https://bettercodehub.com/edge/badge/yulinggithub/ecosystem-2?branch=develop)](https://bettercodehub.com/)
+[![Heroku broken](https://ecosystem-2.herokuapp.com/system/version-badge)](https://ecosystem-2.herokuapp.com/swagger-ui.html)
 ## Ecosistema
 * Java
 * Maven
