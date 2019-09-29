@@ -10,6 +10,7 @@ public class BadgeTest {
     @Test
     void testGenerateBadge() {
         String badge = new Badge().generateBadge("Heroku", "v2.2.0-SNAPSHOT");
+        System.out.print(badge.substring(0, 4));
         assertNotNull(badge);
         assertEquals("<svg", badge.substring(0, 4));
     }
